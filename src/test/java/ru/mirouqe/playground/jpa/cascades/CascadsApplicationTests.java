@@ -10,7 +10,7 @@ import org.springframework.test.context.DynamicPropertySource;
 import org.testcontainers.containers.PostgreSQLContainer;
 import org.testcontainers.junit.jupiter.Container;
 import org.testcontainers.junit.jupiter.Testcontainers;
-import ru.mirouqe.cascads.play.one.*;
+
 import ru.mirouqe.playground.jpa.cascades.play.one.*;
 
 import javax.transaction.Transactional;
